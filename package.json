@@ -1,0 +1,20 @@
+{
+  "name": "yarn-plugin-ignore-install-options",
+  "description": "Yarn Plugin to ignore invalid CLI options",
+  "keywords": [
+    "yarn",
+    "plugin",
+    "install",
+    "legacy",
+    "options",
+    "flags"
+  ],
+  "license": "MIT",
+  "author": "Tobias Høegh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "volta": {
+    "node": "16.1.0"
+  },
+  "packageManager": "yarn@3.0.2"
+}
