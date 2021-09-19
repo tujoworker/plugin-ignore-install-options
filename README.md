@@ -13,7 +13,7 @@ This way, CIs which by default run e.g. `yarn install --non-interactive --prefer
 
 1. Run one of these commands:
 
-`yarn add -D plugin-ignore-install-options`
+`yarn add -D yarn-plugin-ignore-install-options`
 
 or
 

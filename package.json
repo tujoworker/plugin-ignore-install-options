@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "author": "Tobias Høegh",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "postinstall": "node ./plugin-install.js"
