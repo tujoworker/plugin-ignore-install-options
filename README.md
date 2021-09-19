@@ -6,11 +6,16 @@ This way, CIs which by default run e.g. `yarn install --non-interactive --prefer
 
 ## Requirements
 
-Yarn v3.
+- Yarn v3 or higher.
+- Node.js 14.17.6 or higher.
 
 ## How to use?
 
-1. Run this command
+1. Run one of these commands:
+
+`yarn add -D plugin-ignore-install-options`
+
+or
 
 `yarn plugin import https://raw.githubusercontent.com/tujoworker/plugin-ignore-install-options/main/index.js`
 

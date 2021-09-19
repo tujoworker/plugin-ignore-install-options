@@ -11,8 +11,11 @@
   ],
   "license": "MIT",
   "author": "Tobias Høegh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
+  "scripts": {
+    "postinstall": "node ./plugin-install.js"
+  },
   "volta": {
     "node": "16.1.0"
   },
